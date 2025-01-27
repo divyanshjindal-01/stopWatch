@@ -14,6 +14,10 @@ A simple and elegant stopwatch application built using HTML, CSS, and JavaScript
 - **CSS** for styling.
 - **JavaScript** for timer functionality.
 
+## Demo
+
+![stopWatch Preview](img=  `Screenshot 2025-01-27 234414.png`)
+
 ## How to Use
 
 1. Clone the repository or download the files.
